@@ -55,7 +55,11 @@ I don't know what will happen if you run it in other environments. So, you'd bet
 
 ## Further Details
 
-Please refer my slides at the XCON2013.
+Please refer my slides at the XCON2013:
+
+English version: <http://www.claudxiao.net/Attack3DPrinting-Claud-en.pdf>
+
+Chinese version: <http://www.claudxiao.net/Attack3DPrinting-Claud-zh_cn.pdf>
 
 --
 
